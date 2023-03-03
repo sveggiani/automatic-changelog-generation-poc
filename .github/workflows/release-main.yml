@@ -11,5 +11,5 @@ jobs:
         id: release-main
         with:
           release-type: node
-          package-name: release-please-action
+          package-name: web
           token: ${{ secrets.PAT }}

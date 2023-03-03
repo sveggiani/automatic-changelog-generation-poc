@@ -8,9 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
-        id: release-development-to-main
         with:
           release-type: node
-          package-name: release-please-action
+          package-name: web
           token: ${{ secrets.PAT }}
           default-branch: main
