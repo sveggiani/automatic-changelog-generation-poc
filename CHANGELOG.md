@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v3.0.0...v3.0.1) (2023-03-03)
+
+
+### Bug Fixes
+
+* add new to-do item and documentation ([#4](https://github.com/sveggiani/automatic-changelog-generation-poc/issues/4)) ([ced2219](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/ced2219298612aab70c39b9483cdcf6ec301567e))
+
 ## [3.0.0](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v2.0.0...v3.0.0) (2023-03-03)
 
 
