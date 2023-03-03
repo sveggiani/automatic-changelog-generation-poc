@@ -1,0 +1,14 @@
+# Now I'm Markdown!
+
+Just in time :)
+
+## To-Do
+- [X] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+## Documentation
+
+1. Adding some documentation here
+2. And here
+3. Third documentation item
