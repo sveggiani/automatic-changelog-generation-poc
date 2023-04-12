@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v5.0.0...v5.0.1) (2023-04-12)
+
+
+### Bug Fixes
+
+* correct word ([21a8ffe](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/21a8ffe84ba97faabb455c51534f84f1b10aac79))
+
 ## [5.0.0](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v4.0.0...v5.0.0) (2023-04-12)
 
 
