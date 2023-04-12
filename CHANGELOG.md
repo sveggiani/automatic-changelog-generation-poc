@@ -17,6 +17,7 @@
 
 * add task to support Markdown files ([d271ff9](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/d271ff95661e06a775bae0b9816c98f8e797d2a8))
 
+
 ## [3.0.1](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v3.0.0...v3.0.1) (2023-03-03)
 
 
