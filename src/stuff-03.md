@@ -8,6 +8,7 @@ Just in time :)
 - [ ] Item 3
 - [ ] Item 4 (The missing one)
 - [ ] New To-Do item
+- [ ] Support for Markdown
 
 ## Documentation
 

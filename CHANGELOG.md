@@ -1,5 +1,23 @@
 # Changelog
 
+## [4.0.0](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v3.0.1...v4.0.0) (2023-03-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* rename space for Team 2 and add initial contents
+
+### Features
+
+* add new space document for Team 5 ([4a5b756](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/4a5b756ea45d8ce847c57702433096b4c697af17))
+* rename space for Team 2 and add initial contents ([231c622](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/231c622e15d2b6ee160a4077f4e00ac420df33a8))
+
+
+### Bug Fixes
+
+* add task to support Markdown files ([d271ff9](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/d271ff95661e06a775bae0b9816c98f8e797d2a8))
+
+
 ## [3.0.1](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v3.0.0...v3.0.1) (2023-03-03)
 
 
