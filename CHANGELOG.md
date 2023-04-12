@@ -1,5 +1,17 @@
 # Changelog
 
+## [5.0.0](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v4.0.0...v5.0.0) (2023-04-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* change team file format
+
+### Features
+
+* add files for Team 6 ([b99c78d](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/b99c78d6fe4b9801bfda60616618e9e43c57d98e))
+* change team file format ([48e8e7f](https://github.com/sveggiani/automatic-changelog-generation-poc/commit/48e8e7f552ef99f0325910ca3ffc0eccf54bf455))
+
 ## [4.0.0](https://github.com/sveggiani/automatic-changelog-generation-poc/compare/v3.0.1...v4.0.0) (2023-03-06)
 
 
